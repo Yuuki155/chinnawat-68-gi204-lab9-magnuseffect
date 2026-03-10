@@ -264,6 +264,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d9939865cfd5a25419b2490789c51910, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::TorqueRotate
+  torquePower: 5
 --- !u!54 &314024731
 Rigidbody:
   m_ObjectHideFlags: 0
